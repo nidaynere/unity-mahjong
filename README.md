@@ -9,3 +9,5 @@ the game will automaticly load & use them.
 
 you can edit/create levels at Resources/Levels/
 new levels will automaticly placed on level selection.
+
+"developed in a short time counter, shitty structure inside, but working nicely."
